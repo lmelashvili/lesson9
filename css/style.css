@@ -47,10 +47,15 @@ section p {
 .blue-bg  {
 	display: flex;
 	justify-content: center;
+	align-items: center;
 	width: 88px;
 	height: 88px;
 	background-color: #325DFF;
 	margin:0 80px 30px 80px; 
+}
+.blue-bg img {
+	width: 32px;
+	height: 32px;
 }
 
 .inbox h6 { text-align: center;
