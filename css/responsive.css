@@ -22,5 +22,29 @@
 		margin-bottom: 30px;
 
 	}
+	.wrapper {
+		background-color: purple;
+		padding: 30px;
+	}
+	.box {
+		background-color: orange;
+	}
 	.box:nth-child(6) {
 		margin-right: 30px;
+
+		
+
+	}
+
+
+
+
+		@media (max-width: 320px) {
+			.wrapper {
+				padding:0;
+				background-color: orange;
+			}
+			.box {
+				background-color: purple;
+			}
+		}
