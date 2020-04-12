@@ -12,10 +12,11 @@ section p {
 .container {
 	max-width: 1280px;
 	width: 100%;
-	margin-left:300px;
-	margin-right: 55px;
+	/*margin-left:300px;
+	margin-right: 55px;*/
 	padding-left: 60px;
 	padding-right: 60px;
+	margin: 0 auto;
 	background-color: #FAFAFA;
 }
 .sec2 {
