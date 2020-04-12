@@ -54,8 +54,9 @@ section p {
 	width: 88px;
 	height: 88px;
 	background-color: #325DFF;
-	margin:0 80px 30px 80px; 
-}
+/*	margin:0 80px 30px 80px; 
+*/
+margin:0 auto;}
 .blue-bg img {
 	width: 32px;
 	height: 32px;
