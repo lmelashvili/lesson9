@@ -32,7 +32,7 @@ section p {
 	flex-wrap: wrap;
 	border:solid;
 	border-width: 3px;
-	border-color: red;
+	
 }
 .box {
 	max-width: 352px;
